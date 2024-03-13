@@ -14,7 +14,7 @@ Uranium is a compiler that I decided to make from scratch, it is targetted at th
 If you wish to contribute please do the following:
 * Fork the project to your own public repo,
 * Make the changes and commit them to the forked repo,
-* Make a pull request to the **TESTING** branch,
+* Make a pull request **your own** branch,
 * Then, I will personally review the pull request, I will give feedback on it, and then merge or decline it.
 
 <h2 align="center"> Issues </h2>
